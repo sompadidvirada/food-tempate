@@ -19,6 +19,9 @@ export default {
           sm: "3rem",
         },
       },
+      fontFamily: {
+        laos: ["Noto Serif Lao", "sans-serif"],
+      }
     },
   },
   plugins: [],
